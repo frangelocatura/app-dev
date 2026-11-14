@@ -1,7 +1,6 @@
 # My Favorite Series: The Walking Dead
 
-![The Walking Dead](https://www.simonandschuster.com/books/The-Walking-Dead-The-Poster-Collection/AMC/Insights-Poster-Collections/9781608872251)
-
+[View The Walking Dead Poster Collection](https://www.simonandschuster.com/books/The-Walking-Dead-The-Poster-Collection/AMC/Insights-Poster-Collections/9781608872251)
 ## About
 **The Walking Dead** is a *post-apocalyptic horror drama* that premiered on **AMC** on **October 31, 2010**. It is based on the comic book series by Robert Kirkman, Tony Moore, and Charlie Adlard, and it ran for **11 seasons**.
 
